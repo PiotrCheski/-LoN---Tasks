@@ -2,3 +2,7 @@
 *.png
 *.jpeg
 task1/.ipynb_checkpoints/task1-checkpoint.ipynb
+*.pyc
+/task2/*
+!task2/task2.ipynb
+!task2/description.txt
